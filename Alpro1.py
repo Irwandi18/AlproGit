@@ -1,1 +1,1 @@
-print ("makan pagi")
+print ("jalan sore")
