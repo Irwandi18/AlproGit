@@ -1,1 +1,1 @@
-print ("minum siang")
+print ("tidur malam")
